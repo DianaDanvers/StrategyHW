@@ -9,11 +9,11 @@
 <h3>SW 01</h3>
 <ol>
 <li>Ability.java<li>
-<ol><li>This is a tagging interface</ol></li> 
+<ul><li>This is a tagging interface</ul></li> 
 <li>Attack.java interface</li>
-<ol><li>This is an interface that is organized under the Ability interface</ol></li>
+<ul><li>This is an interface that is organized under the Ability interface</ul></li>
 <li>MeleeAttack.java</li>
-<ol><li>This is an implementation of Attack.java</ol></li>
+<ul><li>This is an implementation of Attack.java</ul></li>
 <li>RangedAttack.java</li>
-<ol><li>This is an implementation of Attack.java</ol></li>
+<ul><li>This is an implementation of Attack.java</ul></li>
 </ol>
