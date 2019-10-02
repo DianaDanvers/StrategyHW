@@ -1,4 +1,19 @@
-1. Abstract class called monster 
-2. concrete class called Imp
-3. concrete class called Kobold 
-4. One class called Driver.java
+<h3>SW 00</h3>
+<ol>
+<li>Abstract class called monster</li>
+<li>concrete class called Imp</li>
+<li>concrete class called Kobold</li>
+<li>One class called Driver.java</li>
+</ol>
+
+<h3>SW 01</h3>
+<ol>
+<li>Ability.java</li>
+<ul><li>This is a tagging interface</ul></li> 
+<li>Attack.java interface</li>
+<ul><li>This is an interface that is organized under the Ability interface</ul></li>
+<li>MeleeAttack.java</li>
+<ul><li>This is an implementation of Attack.java</ul></li>
+<li>RangedAttack.java</li>
+<ul><li>This is an implementation of Attack.java</ul></li>
+</ol>
