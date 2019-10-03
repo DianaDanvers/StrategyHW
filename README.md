@@ -17,3 +17,10 @@
 <li>RangedAttack.java</li>
 <ul><li>This is an implementation of Attack.java</ul></li>
 </ol>
+
+<h3>SW 02</h3>
+<ol>
+<li>getAttributes added</li>
+<li>Stats added</li>
+<li>Refactored</li>
+</ol>
